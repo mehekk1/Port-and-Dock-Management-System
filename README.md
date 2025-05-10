@@ -10,4 +10,4 @@ Key achievements of this setup:
 - IPC Communication setup
 - timestep count to show successful communication between file and validation
 
-The validation file was created by professor themselves and we were one provided its machine code, so have no trace of that file.
+The validation file was created by professor themselves and we were only provided its machine code, so have no trace of that file.
