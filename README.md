@@ -7,7 +7,7 @@ Key achievements of this setup:
 - deadlock prevention
 - error handling
 - synchronization
-- IPC Communication setup
+- Inter Process Communication setup
 - timestep count to show successful communication between file and validation
 
 The validation file was created by professor themselves and we were only provided its machine code, so have no trace of that file.
