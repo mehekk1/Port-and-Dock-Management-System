@@ -3,7 +3,7 @@ This was an assignment project under course CS F372 Operating System at BITS Pil
 
 Key achievements of this setup:
 - efficiency
-- pthread based multithreading implemented corrected
+- pthread based multithreading implemented
 - deadlock prevention
 - error handling
 - synchronization
